@@ -1,6 +1,7 @@
 {
   "name": "Telegram Message Forwarder Bot",
   "description": "A Telegram forwarder bot, which can easily be deployed to Heroku.",
+  "repository": "https://github.com/s-sr-1/-stunning-octo-guacamole",
   "image": "heroku/python",
   "formation": {
     "worker": {
