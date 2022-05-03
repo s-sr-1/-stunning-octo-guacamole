@@ -1,5 +1,7 @@
 {
   "name": "Telegram Message Forwarder Bot",
+  "description": "A Telegram forwarder bot, which can easily be deployed to Heroku.",
+  "image": "heroku/python",
   "formation": {
     "worker": {
       "quantity": 1,
