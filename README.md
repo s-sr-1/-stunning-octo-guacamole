@@ -1,2 +1,2 @@
-# probable-octo-enigma
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?code=1yQbrm)
+# -stunning-octo-guacamole
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/s-sr-1/-stunning-octo-guacamole)
