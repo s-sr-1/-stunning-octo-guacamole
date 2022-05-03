@@ -18,11 +18,9 @@
     },
     "TELEGRAM_SESSION": {
       "description": "Telegram session name, required if you want to login as user",
-      "required": false
     },
     "ADVANCE_CONFIG": {
       "description": "Advance config values in valid format.",
-      "required": false
-    },
+    }
   }
 }
